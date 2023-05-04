@@ -1,0 +1,306 @@
+(base) venkataramya@Vardinenis-Air baboon_synchronize % javac BaboonCrossing.java
+(base) venkataramya@Vardinenis-Air baboon_synchronize % java BaboonCrossing 5
+Baboon 2 is on the left side of the canyon and wants to cross.
+Baboon 2 is crossing the rope from the left side to the right side.
+Baboon 3 is on the left side of the canyon and wants to cross.
+Baboon 0 is on the left side of the canyon and wants to cross.
+Baboon 2 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 3 is crossing the rope from the left side to the right side.
+Baboon 4 is on the left side of the canyon and wants to cross.
+Baboon 1 is on the left side of the canyon and wants to cross.
+Baboon 2 is on the right side of the canyon and wants to cross.
+Baboon 3 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 0 is crossing the rope from the left side to the right side.
+Baboon 0 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 4 is crossing the rope from the left side to the right side.
+Baboon 3 is on the right side of the canyon and wants to cross.
+Baboon 4 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 1 is crossing the rope from the left side to the right side.
+Baboon 0 is on the right side of the canyon and wants to cross.
+Baboon 4 is on the right side of the canyon and wants to cross.
+Baboon 1 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 2 is crossing the rope from the right side to the left side.
+Baboon 2 has crossed the rope from the right side to the left side.
+************************
+The rope is now empty.
+************************
+Baboon 3 is crossing the rope from the right side to the left side.
+Baboon 2 is on the left side of the canyon and wants to cross.
+Baboon 1 is on the right side of the canyon and wants to cross.
+Baboon 3 has crossed the rope from the right side to the left side.
+************************
+The rope is now empty.
+Baboon 0 is crossing the rope from the right side to the left side.
+************************
+Baboon 3 is on the left side of the canyon and wants to cross.
+Baboon 0 has crossed the rope from the right side to the left side.
+************************
+The rope is now empty.
+************************
+Baboon 4 is crossing the rope from the right side to the left side.
+Baboon 0 is on the left side of the canyon and wants to cross.
+Baboon 4 has crossed the rope from the right side to the left side.
+************************
+The rope is now empty.
+************************
+Baboon 2 is crossing the rope from the left side to the right side.
+Baboon 2 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 1 is crossing the rope from the right side to the left side.
+Baboon 2 is on the right side of the canyon and wants to cross.
+Baboon 4 is on the left side of the canyon and wants to cross.
+Baboon 1 has crossed the rope from the right side to the left side.
+************************
+The rope is now empty.
+************************
+Baboon 3 is crossing the rope from the left side to the right side.
+Baboon 1 is on the left side of the canyon and wants to cross.
+Baboon 3 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 0 is crossing the rope from the left side to the right side.
+Baboon 0 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 2 is crossing the rope from the right side to the left side.
+Baboon 3 is on the right side of the canyon and wants to cross.
+Baboon 2 has crossed the rope from the right side to the left side.
+************************
+The rope is now empty.
+************************
+Baboon 4 is crossing the rope from the left side to the right side.
+Baboon 0 is on the right side of the canyon and wants to cross.
+Baboon 2 is on the left side of the canyon and wants to cross.
+Baboon 4 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 1 is crossing the rope from the left side to the right side.
+Baboon 4 is on the right side of the canyon and wants to cross.
+Baboon 1 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 3 is crossing the rope from the right side to the left side.
+Baboon 3 has crossed the rope from the right side to the left side.
+************************
+The rope is now empty.
+************************
+Baboon 0 is crossing the rope from the right side to the left side.
+Baboon 3 is on the left side of the canyon and wants to cross.
+Baboon 0 has crossed the rope from the right side to the left side.
+************************
+The rope is now empty.
+************************
+Baboon 2 is crossing the rope from the left side to the right side.
+Baboon 2 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 4 is crossing the rope from the right side to the left side.
+Baboon 1 is on the right side of the canyon and wants to cross.
+Baboon 0 is on the left side of the canyon and wants to cross.
+Baboon 4 has crossed the rope from the right side to the left side.
+************************
+The rope is now empty.
+************************
+Baboon 3 is crossing the rope from the left side to the right side.
+Baboon 2 is on the right side of the canyon and wants to cross.
+Baboon 3 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 1 is crossing the rope from the right side to the left side.
+Baboon 4 is on the left side of the canyon and wants to cross.
+Baboon 3 is on the right side of the canyon and wants to cross.
+Baboon 1 has crossed the rope from the right side to the left side.
+************************
+The rope is now empty.
+************************
+Baboon 0 is crossing the rope from the left side to the right side.
+Baboon 0 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 2 is crossing the rope from the right side to the left side.
+Baboon 0 is on the right side of the canyon and wants to cross.
+Baboon 2 has crossed the rope from the right side to the left side.
+************************
+The rope is now empty.
+************************
+Baboon 4 is crossing the rope from the left side to the right side.
+Baboon 1 is on the left side of the canyon and wants to cross.
+Baboon 4 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 3 is crossing the rope from the right side to the left side.
+Baboon 4 is on the right side of the canyon and wants to cross.
+Baboon 2 is on the left side of the canyon and wants to cross.
+Baboon 3 has crossed the rope from the right side to the left side.
+************************
+The rope is now empty.
+************************
+Baboon 0 is crossing the rope from the right side to the left side.
+Baboon 3 is on the left side of the canyon and wants to cross.
+Baboon 0 has crossed the rope from the right side to the left side.
+************************
+The rope is now empty.
+************************
+Baboon 1 is crossing the rope from the left side to the right side.
+Baboon 0 is on the left side of the canyon and wants to cross.
+Baboon 1 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 4 is crossing the rope from the right side to the left side.
+Baboon 1 is on the right side of the canyon and wants to cross.
+Baboon 4 has crossed the rope from the right side to the left side.
+************************
+The rope is now empty.
+************************
+Baboon 2 is crossing the rope from the left side to the right side.
+Baboon 2 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 3 is crossing the rope from the left side to the right side.
+Baboon 2 is on the right side of the canyon and wants to cross.
+Baboon 4 is on the left side of the canyon and wants to cross.
+Baboon 3 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 0 is crossing the rope from the left side to the right side.
+Baboon 3 is on the right side of the canyon and wants to cross.
+Baboon 0 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 1 is crossing the rope from the right side to the left side.
+Baboon 0 is on the right side of the canyon and wants to cross.
+Baboon 1 has crossed the rope from the right side to the left side.
+************************
+The rope is now empty.
+************************
+Baboon 2 is crossing the rope from the right side to the left side.
+Baboon 1 is on the left side of the canyon and wants to cross.
+Baboon 2 has crossed the rope from the right side to the left side.
+************************
+The rope is now empty.
+************************
+Baboon 4 is crossing the rope from the left side to the right side.
+Baboon 2 is on the left side of the canyon and wants to cross.
+Baboon 4 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 3 is crossing the rope from the right side to the left side.
+Baboon 4 is on the right side of the canyon and wants to cross.
+Baboon 3 has crossed the rope from the right side to the left side.
+************************
+The rope is now empty.
+************************
+Baboon 0 is crossing the rope from the right side to the left side.
+Baboon 3 is on the left side of the canyon and wants to cross.
+Baboon 0 has crossed the rope from the right side to the left side.
+************************
+The rope is now empty.
+************************
+Baboon 1 is crossing the rope from the left side to the right side.
+Baboon 1 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 2 is crossing the rope from the left side to the right side.
+Baboon 2 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 4 is crossing the rope from the right side to the left side.
+Baboon 0 is on the left side of the canyon and wants to cross.
+Baboon 4 has crossed the rope from the right side to the left side.
+************************
+The rope is now empty.
+************************
+Baboon 3 is crossing the rope from the left side to the right side.
+Baboon 2 is on the right side of the canyon and wants to cross.
+Baboon 1 is on the right side of the canyon and wants to cross.
+Baboon 3 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 0 is crossing the rope from the left side to the right side.
+Baboon 3 is on the right side of the canyon and wants to cross.
+Baboon 4 is on the left side of the canyon and wants to cross.
+Baboon 0 has crossed the rope from the left side to the right side.
+************************
+Baboon 2 is crossing the rope from the right side to the left side.
+The rope is now empty.
+************************
+Baboon 0 is on the right side of the canyon and wants to cross.
+Baboon 2 has crossed the rope from the right side to the left side.
+************************
+The rope is now empty.
+************************
+Baboon 1 is crossing the rope from the right side to the left side.
+Baboon 1 has crossed the rope from the right side to the left side.
+************************
+The rope is now empty.
+************************
+Baboon 3 is crossing the rope from the right side to the left side.
+Baboon 2 is on the left side of the canyon and wants to cross.
+Baboon 3 has crossed the rope from the right side to the left side.
+************************
+The rope is now empty.
+************************
+Baboon 4 is crossing the rope from the left side to the right side.
+Baboon 1 is on the left side of the canyon and wants to cross.
+Baboon 3 is on the left side of the canyon and wants to cross.
+Baboon 4 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 0 is crossing the rope from the right side to the left side.
+Baboon 4 is on the right side of the canyon and wants to cross.
+Baboon 0 has crossed the rope from the right side to the left side.
+************************
+The rope is now empty.
+************************
+Baboon 2 is crossing the rope from the left side to the right side.
+Baboon 2 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 1 is crossing the rope from the left side to the right side.
+Baboon 0 is on the left side of the canyon and wants to cross.
+Baboon 1 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 3 is crossing the rope from the left side to the right side.
+Baboon 3 has crossed the rope from the left side to the right side.
+************************
+The rope is now empty.
+************************
+Baboon 4 is crossing the rope from the right side to the left side.
+
